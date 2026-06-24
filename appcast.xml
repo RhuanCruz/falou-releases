@@ -3,6 +3,19 @@
     <channel>
         <title>Falou</title>
         <item>
+            <title>0.1.2</title>
+            <pubDate>Wed, 24 Jun 2026 23:32:14 +0000</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Relatório de erros</h3>
+<ul>
+<li>Adicionado monitoramento de falhas para corrigirmos problemas mais rápido.</li>
+</ul>
+<p>Esta atualização foi instalada automaticamente pelo Falou.</p>]]></description>
+            <enclosure url="https://github.com/RhuanCruz/falou-releases/releases/download/v0.1.2/Falou.dmg" sparkle:edSignature="aqjeUgI33HGKOygri0qs981OGVPSTVU0uxMsS/jNKMHoas319DBhcTSNu+iOWPlkFJodY49+i+ZX3jRg8UE7Bg==" length="8115609" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.1.1</title>
             <pubDate>Wed, 24 Jun 2026 22:45:04 +0000</pubDate>
             <sparkle:version>2</sparkle:version>
