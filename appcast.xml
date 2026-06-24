@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Falou</title>
+        <item>
+            <title>0.1.1</title>
+            <pubDate>Wed, 24 Jun 2026 22:45:04 +0000</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Correções do microfone</h3>
+<ul>
+<li>Corrigido o travamento do app ao usar o microfone.</li>
+<li>Maior robustez quando o dispositivo de entrada selecionado é desconectado.</li>
+</ul>
+<p>Atualizações agora chegam automaticamente dentro do app.</p>]]></description>
+            <enclosure url="https://github.com/RhuanCruz/falou-releases/releases/download/v0.1.1/Falou.dmg" sparkle:edSignature="5HGmvqeHUhNw36+YRcGNOP32MB9V+6EAqiCAmjINsDQzGA4GVmW/XutfIPWT4YD+SOVgLdYRSQ53byO7d2mNCg==" length="6506253" type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>
