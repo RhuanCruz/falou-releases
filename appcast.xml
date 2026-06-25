@@ -3,6 +3,15 @@
     <channel>
         <title>Falou</title>
         <item>
+            <title>0.1.5</title>
+            <pubDate>Thu, 25 Jun 2026 22:23:00 +0000</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Correção do microfone que não ativava quando você tinha fones Bluetooth (ou outro microfone) como entrada padrão do sistema. Agora o Falou usa corretamente o microfone escolhido e, se não der, cai automaticamente no microfone padrão — sem mais a pílula que abre e fecha.]]></description>
+            <enclosure url="https://github.com/RhuanCruz/falou-releases/releases/download/v0.1.5/Falou.dmg" sparkle:edSignature="tV63g5mGWyS0GoBU28lOhJrKCAADVS3NTtbFRmSXVdbrK3+wCAVEsnvotJEqUPdTxrcKgvYtnqZzsuZyCkmsAw==" length="8192007" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.1.4</title>
             <pubDate>Thu, 25 Jun 2026 21:53:40 +0000</pubDate>
             <sparkle:version>5</sparkle:version>
