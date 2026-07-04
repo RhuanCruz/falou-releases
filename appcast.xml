@@ -3,6 +3,15 @@
     <channel>
         <title>Falou</title>
         <item>
+            <title>0.2.0</title>
+            <pubDate>Sat, 04 Jul 2026 14:35:52 +0000</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Agentes de código nativos (Claude Code e Codex) direto no notch. Modo voz com resposta falada e camada rápida de conversa. Rotinas automáticas e proativas. Integrações: Notion, Google Sheets, Jira, LinkedIn, Outlook, Trello, Asana, Stripe, WhatsApp e mais. Novos comandos no Mac: controle de mídia e 'veja minha tela'. Continuar uma sessão em outra com contexto compactado. Correções e melhorias.]]></description>
+            <enclosure url="https://github.com/RhuanCruz/falou-releases/releases/download/v0.2.0/Falou.dmg" sparkle:edSignature="S6HpBpmZTbVaUCR7L/phlkudbrLM2uPiBmM8Ea1/RQnbb3AgACOrsxXmEqpfBXZfFcGsEyrlcxD8UIbL/f7EBA==" length="12602272" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.1.5</title>
             <pubDate>Thu, 25 Jun 2026 22:23:00 +0000</pubDate>
             <sparkle:version>6</sparkle:version>
