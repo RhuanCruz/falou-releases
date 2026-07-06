@@ -3,6 +3,23 @@
     <channel>
         <title>Falou</title>
         <item>
+            <title>0.3.0</title>
+            <pubDate>Mon, 06 Jul 2026 03:24:32 +0000</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Novidades da 0.3.0</h3>
+<ul>
+<li><b>Novos agentes de código:</b> Verboo e Cursor, além de Claude Code e Codex.</li>
+<li><b>Auto-compactação:</b> sessões longas continuam sozinhas numa sessão nova e enxuta, sem estourar o contexto.</li>
+<li><b>Status por voz/texto:</b> pergunte "o que os agentes estão fazendo?" e o Falou responde na hora.</li>
+<li><b>Notch mais legível</b> e estado "rodando" claro nas sessões.</li>
+<li><b>Onboarding novo</b> (agente + ditado) e <b>ditado mais limpo</b>.</li>
+<li>Correções de estabilidade (microfone, inicialização do Codex).</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/RhuanCruz/falou-releases/releases/download/v0.3.0/Falou.dmg" sparkle:edSignature="v2g7NaZXUV160NsiF1Ydjv+tqhczB0HoY3mcsoAVcHlrJ/ECvTHJrbvE+zQNs6saxE9JxfBz1vYbELHk5lT7DA==" length="14319906" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.2.0</title>
             <pubDate>Sat, 04 Jul 2026 14:35:52 +0000</pubDate>
             <sparkle:version>7</sparkle:version>
