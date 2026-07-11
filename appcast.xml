@@ -3,6 +3,15 @@
     <channel>
         <title>Falou</title>
         <item>
+            <title>0.4.0</title>
+            <pubDate>Sat, 11 Jul 2026 05:49:58 +0000</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Falou 0.4.0</h3><ul><li>Central de tarefas redesenhada (estilo Linear/Notion): editor rich com imagens e arquivos inline, anexos, timeline de atividade e delegar compacto.</li><li>Delegação de tarefas a agentes (nuvem + Claude/Codex/Cursor/Verboo) mais robusta.</li><li>Histórico de execução das rotinas + escolha de agente.</li><li>Ditado local instala automaticamente no primeiro uso.</li><li>Várias correções nas janelas destacadas e no notch.</li></ul>]]></description>
+            <enclosure url="https://github.com/RhuanCruz/falou-releases/releases/download/v0.4.0/Falou.dmg" sparkle:edSignature="OUXFEXtkD1AD6oXPksPV/kyCO5y62ZfW+9HsZiPJaMmUogFtAssoyt+/eri22leN+qtzpJaLmUV/KnIp7tD8AQ==" length="19177940" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.3.0</title>
             <pubDate>Mon, 06 Jul 2026 03:24:32 +0000</pubDate>
             <sparkle:version>8</sparkle:version>
