@@ -3,6 +3,15 @@
     <channel>
         <title>Falou</title>
         <item>
+            <title>0.4.1</title>
+            <pubDate>Mon, 13 Jul 2026 14:49:54 +0000</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Falou 0.4.1</h3><ul><li>Colar imagem do clipboard (print/web) agora anexa no chat e nas janelas de sessão.</li><li>@-menções (integrações, skills, MCP) no editor de tarefas.</li><li>Aba Sessions agrupada por Projeto → Tarefa (colapsável).</li><li>Ditado mais fiel (não corta/omite o que você falou) e correções diversas.</li></ul>]]></description>
+            <enclosure url="https://github.com/RhuanCruz/falou-releases/releases/download/v0.4.1/Falou.dmg" sparkle:edSignature="Yxe9j2aEskOjDwoxK3SZmn03xkuUMw/lxHjplrPGTY1umsSr8J8AO55P5CHq5JjUOBpdYu4J2yLIleT8S8DrBA==" length="19272632" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.4.0</title>
             <pubDate>Sat, 11 Jul 2026 05:49:58 +0000</pubDate>
             <sparkle:version>9</sparkle:version>
