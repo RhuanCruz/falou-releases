@@ -3,6 +3,15 @@
     <channel>
         <title>Falou</title>
         <item>
+            <title>0.4.6</title>
+            <pubDate>Tue, 14 Jul 2026 23:51:32 +0000</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>0.4.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Novidades</h3><ul><li>Opção "Nuvem do Falou (padrão)" no motor do agente — dá pra voltar pra nuvem do seu plano.</li><li>Botão "Rever o onboarding" nos Ajustes.</li><li>Agente na sua conta de CLI se comporta como o Falou (memória/estilo) + fix de áudio.</li></ul>]]></description>
+            <enclosure url="https://github.com/RhuanCruz/falou-releases/releases/download/v0.4.6/Falou.dmg" sparkle:edSignature="qgHrKLhsULFIVqykjVqAzFAI4IZDmzmtrsM34Ov7h0cvkUyLEdRz5im1I+n/6futb4bc3HcI4UJt98AQZu2LCw==" length="19468263" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.4.5</title>
             <pubDate>Tue, 14 Jul 2026 23:16:18 +0000</pubDate>
             <sparkle:version>14</sparkle:version>
