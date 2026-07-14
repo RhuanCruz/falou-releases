@@ -3,6 +3,15 @@
     <channel>
         <title>Falou</title>
         <item>
+            <title>0.4.2</title>
+            <pubDate>Tue, 14 Jul 2026 19:03:50 +0000</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Novidades</h3><ul><li><b>Traga sua chave (BYOK)</b>: rode o agente Falou com seu próprio provedor (OpenAI/DeepSeek/OpenRouter…) em Ajustes → Conta.</li><li>Planos: compra <b>Lifetime</b> (única) + mensal/anual.</li><li>Plano grátis com agente via BYOK.</li><li>Integrações prontas passam a ser da Assinatura; nos demais, use MCP próprio.</li><li>Correções e melhorias.</li></ul>]]></description>
+            <enclosure url="https://github.com/RhuanCruz/falou-releases/releases/download/v0.4.2/Falou.dmg" sparkle:edSignature="Uwh2xdB2qubJO38fIxZ9TficADnsbvRWMuuWrRU4QjreE8N4eN823FyBqaD67aXah4ocJgQWphgmF+uKQtEGDQ==" length="19353080" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.4.1</title>
             <pubDate>Mon, 13 Jul 2026 14:49:54 +0000</pubDate>
             <sparkle:version>10</sparkle:version>
