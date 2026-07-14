@@ -3,6 +3,15 @@
     <channel>
         <title>Falou</title>
         <item>
+            <title>0.4.4</title>
+            <pubDate>Tue, 14 Jul 2026 21:52:36 +0000</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.4.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Novidades</h3><ul><li>Detecção da CLI (Claude Code / Codex) instalada nos Ajustes.</li><li>Agente na sua conta de CLI: memória entre mensagens + suas integrações via MCP.</li><li>Correções e melhorias.</li></ul>]]></description>
+            <enclosure url="https://github.com/RhuanCruz/falou-releases/releases/download/v0.4.4/Falou.dmg" sparkle:edSignature="bvGE9ie2LhOiB+Zm47xFC+C8f/XLxdUe3pwlV5VGwosdeqTkn0F6x98k1Z8SJQp3qIgoirShk1UcC380KmjVCw==" length="19454923" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.4.3</title>
             <pubDate>Tue, 14 Jul 2026 21:25:39 +0000</pubDate>
             <sparkle:version>12</sparkle:version>
