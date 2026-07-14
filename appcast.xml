@@ -3,6 +3,15 @@
     <channel>
         <title>Falou</title>
         <item>
+            <title>0.4.3</title>
+            <pubDate>Tue, 14 Jul 2026 21:25:39 +0000</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>0.4.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Novidades</h3><ul><li><b>Agente na sua conta de CLI</b>: rode o agente Falou no seu Claude Code / Codex (sua assinatura, sem API key), com memória entre mensagens e as suas integrações via MCP.</li><li><b>Traga sua chave (BYOK)</b> para qualquer provedor compatível com OpenAI.</li><li>Trocar de agente numa sessão de código mantendo o contexto (handoff fiel).</li><li>Integrações prontas passam a ser da Assinatura; nos demais, use MCP próprio.</li><li>Correções e melhorias.</li></ul>]]></description>
+            <enclosure url="https://github.com/RhuanCruz/falou-releases/releases/download/v0.4.3/Falou.dmg" sparkle:edSignature="JNoNhI9sveP+YRExPXuKkcshw/JnCmdEpR69CN1vwjgJcK/1ncEK3jXhNWXxguYsOEHYdgauwq3WtpM381jpBw==" length="19444072" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.4.2</title>
             <pubDate>Tue, 14 Jul 2026 19:03:50 +0000</pubDate>
             <sparkle:version>11</sparkle:version>
