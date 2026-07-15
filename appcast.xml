@@ -3,6 +3,15 @@
     <channel>
         <title>Falou</title>
         <item>
+            <title>0.5.1</title>
+            <pubDate>Wed, 15 Jul 2026 22:43:49 +0000</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Novidades (0.5.1)</h3><ul><li><b>Novo ícone</b> do Falou.</li><li>Janela de instalação do DMG com arte personalizada.</li><li><b>Missões</b>: o Falou orquestra vários agentes de código em paralelo (planeja, verifica, integra).</li><li>Copiar resposta no chat + polimentos.</li></ul>]]></description>
+            <enclosure url="https://github.com/RhuanCruz/falou-releases/releases/download/v0.5.1/Falou.dmg" sparkle:edSignature="bbGFe+IBZbmFOtpPmz3O1QjPzHqxT+McA3bSsRidLqkrOZKIg0SSAI4TyX+PqxEUrgSmZVPTEyzbPrJLE0HBBg==" length="17425731" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.5.0</title>
             <pubDate>Wed, 15 Jul 2026 17:48:08 +0000</pubDate>
             <sparkle:version>19</sparkle:version>
