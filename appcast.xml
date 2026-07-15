@@ -3,6 +3,15 @@
     <channel>
         <title>Falou</title>
         <item>
+            <title>0.5.0</title>
+            <pubDate>Wed, 15 Jul 2026 17:48:08 +0000</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Novidades (0.5.0)</h3><ul><li><b>Missões</b>: o Falou orquestra vários agentes de código em paralelo — planeja, você aprova, roda em worktrees isolados, verifica (build/testes), revisa e integra numa branch. Nova aba Missões.</li><li>Botão <b>Copiar</b> em cada resposta do chat.</li><li>Vários polimentos (Sessions, rotinas, artifacts).</li></ul>]]></description>
+            <enclosure url="https://github.com/RhuanCruz/falou-releases/releases/download/v0.5.0/Falou.dmg" sparkle:edSignature="gTzWeNM0zNC2hUlsNaSYlq74RnyIHrN/hMeGVYyI9tmdAk1aL0LfR7eMIsdJxdRRV3UXh8SjEIexZHIFXdFGBg==" length="19744888" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.4.9</title>
             <pubDate>Wed, 15 Jul 2026 03:48:42 +0000</pubDate>
             <sparkle:version>18</sparkle:version>
