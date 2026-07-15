@@ -3,6 +3,15 @@
     <channel>
         <title>Falou</title>
         <item>
+            <title>0.4.9</title>
+            <pubDate>Wed, 15 Jul 2026 03:48:42 +0000</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>0.4.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Novidades</h3><ul><li>Delegação do agente agora roda em <b>worktree isolado</b> (+ skills) — não mexe no seu branch.</li><li>Sessions com hierarquia e contraste melhores; indicador de rotina rodando.</li><li>Artifacts: .md dos agentes abrem renderizados no app.</li><li>Guardrail: o agente não apaga mais caches do Xcode.</li></ul>]]></description>
+            <enclosure url="https://github.com/RhuanCruz/falou-releases/releases/download/v0.4.9/Falou.dmg" sparkle:edSignature="lPaUw0c9/hwlVvo25+iopYD9n9nRmQyDObCm93vgxO8F66PBPEAYu9+BebkC592SwuTjHWZvGyzZS0Lo5jI3CA==" length="19541668" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.4.8</title>
             <pubDate>Wed, 15 Jul 2026 01:14:01 +0000</pubDate>
             <sparkle:version>17</sparkle:version>
