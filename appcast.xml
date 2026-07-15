@@ -3,6 +3,15 @@
     <channel>
         <title>Falou</title>
         <item>
+            <title>0.4.7</title>
+            <pubDate>Wed, 15 Jul 2026 00:33:35 +0000</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>0.4.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Correções</h3><ul><li>Rotinas com MCP não travam mais sem resposta (timeout gracioso).</li><li>Sessões "Rodando…" fantasmas somem sozinhas.</li><li>Menções com espaço no nome (ex.: @Scraper Creators) reconhecidas.</li><li>Editor rico no formulário de rotina.</li></ul>]]></description>
+            <enclosure url="https://github.com/RhuanCruz/falou-releases/releases/download/v0.4.7/Falou.dmg" sparkle:edSignature="7cRTSkzKqPfJKXasR87CDMzXFNwIOLMIz1N66G+WoM4xPhskTiBBVYUYgffJYbBtjZ8drbCh0+0JlDjrU9+KDA==" length="19465530" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.4.6</title>
             <pubDate>Tue, 14 Jul 2026 23:51:32 +0000</pubDate>
             <sparkle:version>15</sparkle:version>
