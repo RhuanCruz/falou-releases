@@ -3,6 +3,15 @@
     <channel>
         <title>Falou</title>
         <item>
+            <title>0.4.8</title>
+            <pubDate>Wed, 15 Jul 2026 01:14:01 +0000</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>0.4.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Novidades</h3><ul><li><b>Artifacts</b>: os .md dos agentes (resultados de rotina, relatórios) abrem numa janela do Falou renderizada bonito, não no Quick Look do Mac.</li><li>Menções (@skill/@integração/@mcp) com ícone + cor no editor de tarefas e rotinas.</li><li>Formulário de rotina com campo maior e botão de excluir melhor.</li></ul>]]></description>
+            <enclosure url="https://github.com/RhuanCruz/falou-releases/releases/download/v0.4.8/Falou.dmg" sparkle:edSignature="lCbeGg1sHML3HaAM+qtocBrO6jYh5YLXSZDPn50KZnS2TXYRlIQ+8XYqKWVBY0okQI1bGxjB9alIHPs+811HCg==" length="19529765" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.4.7</title>
             <pubDate>Wed, 15 Jul 2026 00:33:35 +0000</pubDate>
             <sparkle:version>16</sparkle:version>
