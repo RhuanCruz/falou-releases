@@ -3,6 +3,15 @@
     <channel>
         <title>Falou</title>
         <item>
+            <title>0.5.7</title>
+            <pubDate>Thu, 16 Jul 2026 23:16:43 +0000</pubDate>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>0.5.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Uso: visual mais limpo (sem linha no header) e scroll sem barra.</li><li>Sessions: mais espaço entre os cards da listagem.</li></ul>]]></description>
+            <enclosure url="https://github.com/RhuanCruz/falou-releases/releases/download/v0.5.7/Falou.dmg" sparkle:edSignature="wYCTS6SyVepYetbyxzAFBpmTO7geXICJHCzq3ghtUZ9wiaBR2uwQQeh7FjQI8Ng1inasogf4MfxTSonNIyU3Dw==" length="18082620" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.5.6</title>
             <pubDate>Thu, 16 Jul 2026 22:59:49 +0000</pubDate>
             <sparkle:version>25</sparkle:version>
