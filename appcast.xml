@@ -3,6 +3,20 @@
     <channel>
         <title>Falou</title>
         <item>
+            <title>0.5.4</title>
+            <pubDate>Thu, 16 Jul 2026 17:27:49 +0000</pubDate>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>0.5.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Correções nas sessões de código (chat)</h3>
+<ul>
+<li>Sua mensagem aparece <b>na hora</b> ao iniciar/continuar uma sessão, numa <b>bolha com contraste</b> — chat de verdade.</li>
+<li>Mensagens em <b>ordem cronológica</b>: a resposta do agente fica no lugar certo (corrige o "invertido").</li>
+<li>Ao <b>entrar num chat</b> ele rola direto pra última mensagem; e acompanha o conteúdo novo sozinho.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/RhuanCruz/falou-releases/releases/download/v0.5.4/Falou.dmg" sparkle:edSignature="LCjYwWcTLLxNhiYg49GsPjhSpTEdcpeYhUOogEObfg8CkwJZN3eebatx9amiN43UKBlr7Z2bh/UFUREkM/m9Bg==" length="18048389" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.5.3</title>
             <pubDate>Thu, 16 Jul 2026 15:02:13 +0000</pubDate>
             <sparkle:version>22</sparkle:version>
