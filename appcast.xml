@@ -3,6 +3,24 @@
     <channel>
         <title>Falou</title>
         <item>
+            <title>0.5.2</title>
+            <pubDate>Thu, 16 Jul 2026 05:36:34 +0000</pubDate>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>0.5.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Squads de agentes — monte um time na sua tarefa</h3>
+<ul>
+<li><b>Squads editáveis por agente:</b> delegue uma tarefa e o Falou monta um time de agentes (código, pesquisa ou geral — design, jurídico, escrita, análise). Você vê, edita o objetivo, pausa, adiciona ou remove cada agente.</li>
+<li><b>Cockpit na tarefa:</b> abas internas <b>Agentes · Atividade · Comentários</b>. A Atividade mostra ao vivo o que cada agente está fazendo.</li>
+<li><b>Delegar = rodar:</b> ao delegar ao Falou a tarefa já entra em progresso e começa na hora.</li>
+<li><b>Roster de agentes:</b> personas reutilizáveis (papel, tipo e skills) que o Falou usa ao compor um time.</li>
+<li><b>Rotinas → squad:</b> uma rotina pode disparar uma squad sozinha (código nunca é mergeado sem você).</li>
+<li><b>Sessions unificado:</b> código, pesquisa e geral agora ficam todos em Sessions, com selo de tipo. Botão direito para parar/ver relatório/remover.</li>
+</ul>
+<p>Além de correções de estabilidade nos agentes em nuvem.</p>]]></description>
+            <enclosure url="https://github.com/RhuanCruz/falou-releases/releases/download/v0.5.2/Falou.dmg" sparkle:edSignature="r6jMs/P+OX5LZm6lqVC6ualra/xutDDnUqX3xoq8gfDRzyz4RIgAKjokGrxdZ9aDuQ8Ytj0jwyw30MOsQiItDg==" length="17719065" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.5.1</title>
             <pubDate>Wed, 15 Jul 2026 22:43:49 +0000</pubDate>
             <sparkle:version>20</sparkle:version>
