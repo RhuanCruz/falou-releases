@@ -3,6 +3,21 @@
     <channel>
         <title>Falou</title>
         <item>
+            <title>0.5.5</title>
+            <pubDate>Thu, 16 Jul 2026 17:58:57 +0000</pubDate>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>0.5.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Polish do chat + tela Uso</h3>
+<ul>
+<li><b>Chat do Falou</b> (notch e janela): abre já na última mensagem e acompanha o conteúdo novo automaticamente.</li>
+<li><b>Sessões de código</b>: indicador de carregando enxuto (só os pontinhos) do lado do agente enquanto ele trabalha.</li>
+<li><b>Tela "Uso"</b>: abre já com os dados (sem tela de carregando) e mantém o % de limite (Claude/Codex) atualizado após cada execução.</li>
+<li>Micro-animação de entrada das mensagens mais suave.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/RhuanCruz/falou-releases/releases/download/v0.5.5/Falou.dmg" sparkle:edSignature="/9a5HQ+PVPyTUeUt6xbgu0yo19xKtTGxoSTfmX73Uza6hJSB86+m7+ML7E31dynEANA/eLGjwzC5rlqLoJ8gDQ==" length="18061796" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.5.4</title>
             <pubDate>Thu, 16 Jul 2026 17:27:49 +0000</pubDate>
             <sparkle:version>23</sparkle:version>
