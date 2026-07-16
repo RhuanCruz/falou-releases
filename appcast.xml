@@ -3,6 +3,21 @@
     <channel>
         <title>Falou</title>
         <item>
+            <title>0.5.3</title>
+            <pubDate>Thu, 16 Jul 2026 15:02:13 +0000</pubDate>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>0.5.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Novidades</h3>
+<ul>
+<li><b>Nova aba “Uso” no notch</b> — tokens por dia (passe o mouse pra ver o valor) e <b>% de limite</b> da conta ativa: Claude (5H/7D) e Codex. Abra pelo swipe de 2 dedos ou ao trocar de conta.</li>
+<li><b>OpenCode</b> agora é um agente de código nativo (menu “+”), com timeline completa de ações.</li>
+<li><b>Múltiplas contas por CLI</b> (Claude · Codex · Cursor · Verboo · OpenCode) com troca rápida — por voz (“troca pra conta com mais limite”) ou nos Ajustes — e <b>login pelo navegador</b> ao adicionar conta.</li>
+<li>Melhorias no notch (scroll ao ler histórico, ações da CLI espelhadas no transcript).</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/RhuanCruz/falou-releases/releases/download/v0.5.3/Falou.dmg" sparkle:edSignature="EBuLRIlDR/E7u6G6xNU/KOUFtr35L402fm0oxlSYgX49lIQAYNRmcKIZY0Ob90ybh2Aa71fv0W0y5VxGE6bcCw==" length="19597680" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.5.2</title>
             <pubDate>Thu, 16 Jul 2026 05:36:34 +0000</pubDate>
             <sparkle:version>21</sparkle:version>
