@@ -3,6 +3,21 @@
     <channel>
         <title>Falou</title>
         <item>
+            <title>0.5.6</title>
+            <pubDate>Thu, 16 Jul 2026 22:59:49 +0000</pubDate>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>0.5.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Novidades</h3>
+<ul>
+<li><b>Uso</b>: OpenCode agora aparece na tela de uso (tokens dos últimos 14 dias).</li>
+<li><b>Agente mais esperto com as CLIs</b>: pergunte "quanto usei do Claude/Codex" ou "troca pra conta com mais limite" — ele verifica o consumo e troca a conta ativa por você.</li>
+<li><b>Lembretes no app certo</b>: "me lembra de…" vai pro app Lembretes da Apple; "cria uma tarefa…" fica na lista do Falou.</li>
+<li><b>Busca na web mais robusta</b>: pesquisas do agente não falham mais em silêncio — com novas tentativas e mensagens claras quando a busca está indisponível.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/RhuanCruz/falou-releases/releases/download/v0.5.6/Falou.dmg" sparkle:edSignature="2KJS4aZNAPBc7y2piUx+4Kdi4zdgWbStRSohIrsbKGGY7dO+T3FyFW3i6Un1AbMZO8NGtwTuRu9+9kpLCtsGBg==" length="18055621" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.5.5</title>
             <pubDate>Thu, 16 Jul 2026 17:58:57 +0000</pubDate>
             <sparkle:version>24</sparkle:version>
