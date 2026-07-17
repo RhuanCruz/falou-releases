@@ -3,6 +3,17 @@
     <channel>
         <title>Falou</title>
         <item>
+            <title>0.5.11</title>
+            <pubDate>Fri, 17 Jul 2026 18:23:16 +0000</pubDate>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>0.5.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+<li><b>Correção importante:</b> o Falou não remove mais worktrees automaticamente. Antes, uma limpeza automática podia apagar uma worktree cujo agente ainda não tinha commitado o trabalho. Agora só metadados órfãos (de pastas que você mesmo já apagou) são limpos — nada com trabalho é tocado.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/RhuanCruz/falou-releases/releases/download/v0.5.11/Falou.dmg" sparkle:edSignature="DDV1YBH5lRvRvkwaKmTwUHY5MQQlqyW6BxviHkvTWvKHtTqb2vhHcQN3mR0ZsF/z6RH1WswhUzM80f2TFuutAw==" length="18127429" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.5.10</title>
             <pubDate>Fri, 17 Jul 2026 14:01:02 +0000</pubDate>
             <sparkle:version>29</sparkle:version>
