@@ -3,6 +3,20 @@
     <channel>
         <title>Falou</title>
         <item>
+            <title>0.5.8</title>
+            <pubDate>Fri, 17 Jul 2026 12:55:09 +0000</pubDate>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>0.5.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+<li><b>Perguntar o status dos agentes:</b> pergunte ao Falou "qual agente terminou?" ou "o que o Claude/OpenCode fez?" — ele lê o relatório e pode delegar o próximo passo (ex.: commit/merge) a outro agente.</li>
+<li><b>Delegação mais robusta:</b> ao criar a worktree, o erro real do git é mostrado (em vez de mensagem genérica), com limpeza + nova tentativa automática; worktrees já mescladas na main são liberadas sozinhas.</li>
+<li><b>Nomes de sessão descritivos:</b> sessões delegadas agora mostram um nome vindo do pedido, nunca "1" nem o ID da worktree.</li>
+<li><b>Voz de permissão mais enxuta:</b> ao pedir permissão, o agente fala de forma curta — o cartão no notch já mostra os detalhes.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/RhuanCruz/falou-releases/releases/download/v0.5.8/Falou.dmg" sparkle:edSignature="YnXJd0boFNLzPnkGGvy98Y3/PC8p45oPjZTG3UiWBuPQvl0rNACEpRxPr/UOg2DmjCBRjsoHI9R9BNqGBT4FCQ==" length="18118688" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.5.7</title>
             <pubDate>Fri, 17 Jul 2026 00:12:33 +0000</pubDate>
             <sparkle:version>26</sparkle:version>
