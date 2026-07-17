@@ -3,6 +3,18 @@
     <channel>
         <title>Falou</title>
         <item>
+            <title>0.5.10</title>
+            <pubDate>Fri, 17 Jul 2026 14:01:02 +0000</pubDate>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>0.5.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+<li><b>Sessions agrupadas pelo repo:</b> os agentes delegados agora aparecem dentro do projeto de origem (ex.: "falou"), em vez de nós soltos com o ID da worktree.</li>
+<li><b>Acesso automático às worktrees:</b> o Falou passa a ler/agir nas worktrees dos agentes delegados sem precisar autorizar cada pasta — elas herdam a permissão do repo de origem.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/RhuanCruz/falou-releases/releases/download/v0.5.10/Falou.dmg" sparkle:edSignature="wZ8ZtI3Mca3QRO+ABLgBhdhxl5cE25NDKMbmFUICKM77tZOC2D7NZGkI8gE7kh3iBuoBD9NgaWgz7m7NPRjyBA==" length="18129523" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.5.9</title>
             <pubDate>Fri, 17 Jul 2026 13:32:18 +0000</pubDate>
             <sparkle:version>28</sparkle:version>
