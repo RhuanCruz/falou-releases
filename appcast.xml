@@ -4,6 +4,20 @@
         <title>Falou</title>
         <item>
             <title>0.5.7</title>
+            <pubDate>Fri, 17 Jul 2026 00:12:33 +0000</pubDate>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>0.5.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Ajustes de interface</h3>
+<ul>
+<li><b>Verificar uso das CLIs pelo chat</b>: pergunte "qual meu limite no Claude Code" e o agente responde direto com seu uso e limites — sem rodar comandos à toa.</li>
+<li><b>Tela "Uso"</b> mais limpa (sem linha sobrando no topo, sem barra de rolagem).</li>
+<li><b>Sessões</b>: mais respiro entre os cards.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/RhuanCruz/falou-releases/releases/download/v0.5.7/Falou.dmg" sparkle:edSignature="+GfYhIqvD52Xjh323KJh79KOkRXcCvCo9ZZaagnj293YWH7+oKToXxQNgbcb/EVs8rEauBfWEsvh+ABcgjauAA==" length="18053804" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.5.7</title>
             <pubDate>Thu, 16 Jul 2026 23:16:43 +0000</pubDate>
             <sparkle:version>26</sparkle:version>
             <sparkle:shortVersionString>0.5.7</sparkle:shortVersionString>
