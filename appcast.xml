@@ -3,6 +3,18 @@
     <channel>
         <title>Falou</title>
         <item>
+            <title>0.5.9</title>
+            <pubDate>Fri, 17 Jul 2026 13:32:18 +0000</pubDate>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>0.5.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+<li><b>"O que o agente terminou?" agora mostra o que cada um fez:</b> ao perguntar o status dos agentes de código, o Falou responde com o nome legível de cada sessão e um resumo do que ela concluiu (relatório), em vez de listar IDs de worktree.</li>
+<li><b>Nomes de sessão persistentes:</b> o nome descritivo da sessão delegada sobrevive a reinícios do app.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/RhuanCruz/falou-releases/releases/download/v0.5.9/Falou.dmg" sparkle:edSignature="rmbsh2OkQT6SQBDVvJSNIAOVhKCaUvH6EAiGlmZN3IqVIUQjtKOu1PbX51ti/8ZOQw9Ts91bk9NVuHKHgY0bDA==" length="18120514" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.5.8</title>
             <pubDate>Fri, 17 Jul 2026 12:55:09 +0000</pubDate>
             <sparkle:version>27</sparkle:version>
