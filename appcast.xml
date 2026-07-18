@@ -3,6 +3,18 @@
     <channel>
         <title>Falou</title>
         <item>
+            <title>0.5.12</title>
+            <pubDate>Sat, 18 Jul 2026 02:25:39 +0000</pubDate>
+            <sparkle:version>31</sparkle:version>
+            <sparkle:shortVersionString>0.5.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+<li><b>Novos agentes de código:</b> agora dá pra delegar tarefas ao <b>Grok CLI</b> e ao <b>Antigravity</b> (agy), além de Claude Code, Codex, Cursor e OpenCode — com timeline no notch.</li>
+<li><b>Grok como motor e multi-conta:</b> o Grok pode rodar como motor do Falou (pela sua conta) e ter várias contas com troca, como os outros. O Antigravity roda como agente e motor (com timeline mais simples, por limitação do CLI dele).</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/RhuanCruz/falou-releases/releases/download/v0.5.12/Falou.dmg" sparkle:edSignature="pP3E1Ii2MpPDCxRKrI//Octmhj7VWF0E8Ic2uVsllOv/vrctkCaqBV3mOOfI14t9361urOkdmao7KExAMtcCBA==" length="18373058" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.5.11</title>
             <pubDate>Fri, 17 Jul 2026 18:23:16 +0000</pubDate>
             <sparkle:version>30</sparkle:version>
