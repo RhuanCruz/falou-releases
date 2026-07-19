@@ -4,6 +4,26 @@
         <title>Falou</title>
         <item>
             <title>0.5.13</title>
+            <pubDate>Sun, 19 Jul 2026 16:37:46 +0000</pubDate>
+            <sparkle:version>32</sparkle:version>
+            <sparkle:shortVersionString>0.5.13</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Agent Board — seus agentes trabalhando num kanban vivo</h2>
+<ul>
+<li><b>Agent Board</b>: nova janela kanban (Backlog → Revisão → Ativo → Concluído) onde arrastar o card É a ação — analisar, delegar, aprovar, recusar, reabrir. Composer central com @ de skills, MCPs e integrações, anexos múltiplos e filtros por repo/prioridade.</li>
+<li><b>Orquestrador proativo</b>: observa seu backlog e propõe planos sozinho (toggle no header do board).</li>
+<li><b>Análise em duas fases</b>: antes de planejar, o Falou verifica se tem contexto — e faz perguntas inteligentes direto no notch, com opções e recomendação. Dá pra responder falando.</li>
+<li><b>Detalhe do plano</b>: tarefas por ondas de dependência, kickoff editável, anexos, comentários, diagrama do plano e modelo executor por tarefa. Aprove, refaça com feedback ou recuse — por clique ou por voz.</li>
+<li><b>Notch</b>: nova view de Planos e swipe direcional entre chat → sessões → planos → uso; nova sessão de código direto no notch; tela de uso das contas em tempo real.</li>
+<li><b>Agente cloud enxerga mais</b>: lê imagens, PDFs e documentos anexados, faz scrape de sites e captura screenshots de páginas.</li>
+<li><b>Integrações</b>: múltiplas contas por serviço (ex.: dois Gmails) e conexão OAuth corrigida.</li>
+<li><b>Modelos</b>: catálogo remoto sempre atualizado + novos modelos (Fable 5, GPT-5.6, Kimi K3) com badge "novo".</li>
+<li><b>Extras</b>: cards ricos com botão Ouvir, templates prontos de rotinas e Settings reorganizado em sub-telas.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/RhuanCruz/falou-releases/releases/download/v0.5.13/Falou.dmg" sparkle:edSignature="eYD+AMX8Sa/vNnjZTOWv9QSos2C4X4UCb5kC9IiyyVPUqijk31+ZfkmExlzQB8LIRdWwSiONGe6UZXFa8B3yAg==" length="19730531" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.5.13</title>
             <pubDate>Sat, 18 Jul 2026 03:22:25 +0000</pubDate>
             <sparkle:version>32</sparkle:version>
             <sparkle:shortVersionString>0.5.13</sparkle:shortVersionString>
