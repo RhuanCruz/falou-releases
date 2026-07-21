@@ -3,6 +3,15 @@
     <channel>
         <title>Falou</title>
         <item>
+            <title>0.6.0</title>
+            <pubDate>Tue, 21 Jul 2026 04:24:54 +0000</pubDate>
+            <sparkle:version>33</sparkle:version>
+            <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Context Engine — aponte, fale, e o Falou entende sua tela</h3><ul><li><b>Contexto espacial:</b> segure o atalho, circule uma ou mais áreas da tela (em qualquer app/monitor) enquanto fala — o Falou vê o que você marcou. Sem marcar, ele analisa a tela inteira por visão.</li><li><b>Texto selecionado como contexto:</b> selecione e diga "traduza isso" / "resume isso".</li><li><b>Traduzir (⌃fn):</b> um toque traduz a seleção — substitui no lugar em campos editáveis.</li><li><b>Ditado com contexto (⌃⌥):</b> pense alto e o Falou formata um texto limpo e cola pra você.</li><li><b>No chat de código:</b> circule um bug/UI, fale, e vire um brief técnico + prints pro Claude Code/Codex — com carrossel das imagens.</li></ul>]]></description>
+            <enclosure url="https://github.com/RhuanCruz/falou-releases/releases/download/v0.6.0/Falou.dmg" sparkle:edSignature="MRDhPZqSv6Lz8JBiaEdjjcT8iv2yfJ+WjJOtCrttX2Fv5Nf8wAVHCzu5ETl/zf6DuKBdEgySdNlGLvuR0V99Cw==" length="19905999" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.5.13</title>
             <pubDate>Sun, 19 Jul 2026 16:37:46 +0000</pubDate>
             <sparkle:version>32</sparkle:version>
