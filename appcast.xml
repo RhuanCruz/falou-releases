@@ -3,6 +3,15 @@
     <channel>
         <title>Falou</title>
         <item>
+            <title>0.6.1</title>
+            <pubDate>Wed, 22 Jul 2026 22:52:39 +0000</pubDate>
+            <sparkle:version>34</sparkle:version>
+            <sparkle:shortVersionString>0.6.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Ditado com contexto e Traduzir, muito mais afiados</h3><ul><li><b>Ditado com contexto (⌃⌥):</b> fale solto ou peça — "me ajuda a criar um post sobre X" — e o Falou escreve um texto limpo usando o que está na tela e cola direto no campo. O foco do campo é restaurado antes de colar, então o texto cai onde você estava.</li><li><b>Suas skills no tom certo:</b> o ditado aplica suas skills (ex.: seu tom de voz no X, seu estilo de escrita em documentos) automaticamente, por nome ou por relevância.</li><li><b>Traduzir seleção (⌃fn):</b> tradução bidirecional pt↔en; em campo editável troca no lugar, e o texto longo agora rola dentro do notch com altura limitada.</li><li><b>Microfone mais robusto:</b> auto-recupera captura travada e o "Processando" não quebra mais no meio da palavra.</li><li>Atalhos de Ditado e Traduzir agora visíveis em Ajustes → Ativação.</li></ul>]]></description>
+            <enclosure url="https://github.com/RhuanCruz/falou-releases/releases/download/v0.6.1/Falou.dmg" sparkle:edSignature="qOzIKULFiyhv42aBjEEbB6/o0VaAMMF5l39ejmZ3Dh+Qg1BXKi3Xhb9P4NQaOqizdomnhGJpxUTkLNQ5IT5pDg==" length="19928102" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.6.0</title>
             <pubDate>Tue, 21 Jul 2026 04:24:54 +0000</pubDate>
             <sparkle:version>33</sparkle:version>
