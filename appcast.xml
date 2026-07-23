@@ -3,6 +3,15 @@
     <channel>
         <title>Falou</title>
         <item>
+            <title>0.6.2</title>
+            <pubDate>Thu, 23 Jul 2026 12:47:47 +0000</pubDate>
+            <sparkle:version>35</sparkle:version>
+            <sparkle:shortVersionString>0.6.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Corrige um crash raro do áudio da voz após o Mac dormir/acordar (ou trocar de saída de áudio). O TTS agora se recupera sozinho em vez de encerrar o app.]]></description>
+            <enclosure url="https://github.com/RhuanCruz/falou-releases/releases/download/v0.6.2/Falou.dmg" sparkle:edSignature="HylQPALmLqldBBpq0dnEyINVTfkntLExv6roRMtRY1fGiA+zZ1Q10/g9EuzNSJHeXASm/84mhsaORpHMCFT6Bw==" length="19930352" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.6.1</title>
             <pubDate>Wed, 22 Jul 2026 22:52:39 +0000</pubDate>
             <sparkle:version>34</sparkle:version>
