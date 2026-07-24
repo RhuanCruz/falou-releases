@@ -3,6 +3,15 @@
     <channel>
         <title>Falou</title>
         <item>
+            <title>0.6.3</title>
+            <pubDate>Fri, 24 Jul 2026 20:52:08 +0000</pubDate>
+            <sparkle:version>36</sparkle:version>
+            <sparkle:shortVersionString>0.6.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>O notch navega no mouse</h3><ul><li>Clique, segure e arraste a superfície do notch pro lado pra trocar de tela — antes só o swipe de dois dedos do trackpad fazia isso.</li><li>Barra de abas discreta no canto: em repouso é só o ícone da tela atual, no hover ela abre e você clica direto em Chat, Sessões, Planos ou Uso.</li><li>Enquanto arrasta, a barra mostra pra onde você vai antes de soltar. Um flique curto troca igual a um arraste longo.</li><li>⇧+roda do mouse também troca de tela (e a roda inclinável, se o seu mouse tiver).</li><li>Ponto laranja avisa quando tem plano esperando aprovação, mesmo com a barra fechada.</li></ul><h3>Correções</h3><ul><li>O agente voltou a responder: o provedor do modelo aposentou o nome que usávamos e toda pergunta morria com erro 400.</li></ul>]]></description>
+            <enclosure url="https://github.com/RhuanCruz/falou-releases/releases/download/v0.6.3/Falou.dmg" sparkle:edSignature="kx4/rLUk5sqH2q+HVGYPxSxpBkyedxf5NfE8Ys92ggmaiqrNX6XQUR15ZjNIG7pmb9Jv3SVpJoKnhaDEVMi5Bw==" length="19957668" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.6.2</title>
             <pubDate>Thu, 23 Jul 2026 12:47:47 +0000</pubDate>
             <sparkle:version>35</sparkle:version>
