@@ -3,6 +3,15 @@
     <channel>
         <title>Falou</title>
         <item>
+            <title>0.7.0</title>
+            <pubDate>Sun, 26 Jul 2026 00:34:17 +0000</pubDate>
+            <sparkle:version>37</sparkle:version>
+            <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>O notch virou uma janela sobre o trabalho</h3><ul><li><b>Sessão viva:</b> colapsar o notch, navegar entre telas ou trocar de conversa não cancela mais o que o agente está fazendo. Só um "parar" explícito cancela — e quando você para, ele cala na hora.</li><li><b>Fila de Comandos:</b> mandar um segundo pedido enfileira em vez de atropelar o primeiro. A fila avança sozinha, pausa quando uma decisão espera você, retoma quando você resolve e guarda o que falhou com o motivo.</li><li><b>Tela Conversas</b>, à esquerda do Chat: seu histórico a um arraste de distância.</li><li><b>Frota de Agentes Ativos</b> no notch minimizado — azul pulsando pra rodando, laranja pra precisa de você.</li><li>O notch abre ao parar o mouse sobre ele, e se recolhe sozinho quando você não mexe.</li></ul><h3>Campo de texto</h3><ul><li>Cresce conforme você escreve e aceita imagem colada (⌘V) ou arrastada do Finder, mirando o ponto onde soltar — e desenha a imagem dentro do texto, não como anexo no rodapé. Vale em todo lugar com IA: chat, janela destacada e rotinas.</li><li>No contexto espacial, o brief volta com cada imagem no lugar certo da frase.</li></ul><h3>Voz e visual</h3><ul><li>Ditado acontece no notch, mostrando o ícone do app que vai receber o texto.</li><li>Escuta minimalista: uma onda que viaja de verdade (o áudio muda a altura, não o movimento) e uma cor por fase da espera.</li></ul>]]></description>
+            <enclosure url="https://github.com/RhuanCruz/falou-releases/releases/download/v0.7.0/Falou.dmg" sparkle:edSignature="+WZYUOJVV46+3B7AN6EXpA4L5Bh3ZEurYkfi3/srCeKklISnlySgaYJiXt/YuxYAKKqDMDA24ye4R9mtU2ivCA==" length="20172729" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.6.3</title>
             <pubDate>Fri, 24 Jul 2026 20:52:08 +0000</pubDate>
             <sparkle:version>36</sparkle:version>
