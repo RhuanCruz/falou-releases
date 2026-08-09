@@ -3,6 +3,15 @@
     <channel>
         <title>Falou</title>
         <item>
+            <title>0.8.0</title>
+            <pubDate>Sun, 09 Aug 2026 23:22:52 +0000</pubDate>
+            <sparkle:version>39</sparkle:version>
+            <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>0.8.0 — Orquestração hierárquica</h2><ul><li>Tarefas agora contêm Etapas e Tarefas-filhas, cada frente com seu repositório</li><li>O Orquestrador é um chat como qualquer outro — no provedor e modelo que você escolher</li><li>Canvas de chats interligados: aprove, acompanhe e navegue pelo mapa da Tarefa</li><li>Cockpit no chat: veja cada agente trabalhando, pause, retome, entre na conversa</li><li>Pausar um agente agora é definitivo — ele não volta sozinho</li><li>Medidor de contexto no chat: veja o uso, saiba quando compacta, compacte na hora</li><li>Apagar uma Tarefa leva a árvore toda — com opção de limpar worktrees e branches</li><li>Branches com nome legível (falou/documentar-orquestracao-8f2a em vez de hex)</li></ul>]]></description>
+            <enclosure url="https://github.com/RhuanCruz/falou-releases/releases/download/v0.8.0/Falou.dmg" sparkle:edSignature="VyHdmupOK2L5MKtDgQ4K4CLj0iOacCK3jRFG/GyB9MfUshRgs/iUcpbiywuj+QMjeCIi1yz09aNMGvNRDDfZBA==" length="28994391" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.7.0</title>
             <pubDate>Sun, 26 Jul 2026 00:34:17 +0000</pubDate>
             <sparkle:version>37</sparkle:version>
