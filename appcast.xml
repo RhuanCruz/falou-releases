@@ -3,6 +3,23 @@
     <channel>
         <title>Falou</title>
         <item>
+            <title>0.9.0</title>
+            <pubDate>Fri, 14 Aug 2026 00:47:03 +0000</pubDate>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>O Falou roda na sua máquina — e traz o trabalho de volta</h3>
+<ul>
+<li><b>Seus agentes na sua máquina.</b> Cadastre uma máquina Linux sua e a conversa nasce lá: o worktree é criado no servidor em vez de ocupar o seu disco, e a aprovação continua chegando aqui. O login é por código de dispositivo — você confirma no navegador daqui, sem colar chave de API em lugar nenhum.</li>
+<li><b>A PR volta pro seu Mac num clique.</b> Quando o agente abre uma pull request, ela vira um cartão no fim da conversa. Mesclar no GitHub e atualizar a sua cópia local viraram uma ação só — e ele confere antes se você tem mudança não salva no caminho.</li>
+<li><b>Veja a tela do que roda longe.</b> O agente sobe o servidor de desenvolvimento na máquina remota e a página aparece no painel daqui como se fosse local. Peça uma mudança visual e ele mostra o resultado, navegando na sua frente.</li>
+<li><b>Subagentes na barra lateral</b>, indentados sob quem os criou, com o cartão dizendo de que provedor cada um é.</li>
+<li><b>Indique e ganhe meses.</b> Três amigos assinando e o seu próximo mês sai de graça.</li>
+<li><b>O app inteiro em inglês</b> — interface, notch e agente, que agora responde no idioma da sua pergunta. O ditado passa a seguir o idioma do seu Mac.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/RhuanCruz/falou-releases/releases/download/v0.9.0/Falou.dmg" sparkle:edSignature="Rho1SyxztkR8OkKMA37Ye4G6herQbXrY7Dr9vHlZY8SBg/CK5JakTsm/drTATDHocZm8iBhtSE5MiCD/GM8RAw==" length="30646077" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.8.0</title>
             <pubDate>Sun, 09 Aug 2026 23:22:52 +0000</pubDate>
             <sparkle:version>39</sparkle:version>
