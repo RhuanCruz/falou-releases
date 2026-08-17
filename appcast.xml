@@ -3,6 +3,27 @@
     <channel>
         <title>Falou</title>
         <item>
+            <title>0.10.0</title>
+            <pubDate>Mon, 17 Aug 2026 20:18:29 +0000</pubDate>
+            <sparkle:version>41</sparkle:version>
+            <sparkle:shortVersionString>0.10.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>O Falou fala primeiro — e enxerga o que você está olhando</h3>
+<ul>
+<li><b>Ele enxerga o que você selecionou.</b> Selecione um texto em qualquer app, chame o agente e pergunte: a seleção entra no contexto. Um marcador no notch mostra o que ele vai receber antes de você falar — e um ✕ descarta se mudar de ideia.</li>
+<li><b>O Falou fala primeiro.</b> Ele junta o que ficou pendente e traz uma vez, no máximo três vezes por dia, em tom de amigo — nunca lendo nome de repositório ou de tarefa. Visual por padrão; a voz mora em "Modo companheiro", nos Ajustes.</li>
+<li><b>Traduzir, no idioma que você escolher.</b> Agora você define para qual língua traduzir e para qual voltar quando o texto já estiver nela — antes ele seguia o idioma do ditado e podia traduzir inglês para inglês. O histórico do que você traduziu fica no notch.</li>
+<li><b>Quanto o agente pode sozinho</b> virou uma pílula no composer: Pergunta antes, Edita sem pedir ou Livre, com o aviso em laranja só no último. "Planejar primeiro" é um interruptor à parte.</li>
+<li><b>Comece pela issue.</b> Escolha PRs, branches, issues do GitHub ou tickets do Linear e transforme em conversas. Quando o trabalho vira PR, o Falou comenta na fonte com o link.</li>
+<li><b>Pilhas de pull request:</b> a pilha inteira em ordem, com a prontidão de cada uma, mesclada de baixo para cima num clique.</li>
+<li><b>⌘P acha um arquivo, ⇧⌘F acha onde a frase está escrita</b> — e dá para bifurcar uma conversa, escolhendo se ela continua na mesma pasta ou nasce num worktree novo.</li>
+<li><b>Corrija o rumo de um agente sem matá-lo:</b> mande uma orientação no meio do turno, e ela aparece no histórico dizendo quem mandou.</li>
+<li><b>A barra lateral ganhou filtros</b> — por estado, máquina, agente, com PR — e cada filtro ativo vira uma etiqueta acima da lista.</li>
+<li>Cada turno diz quando aconteceu, quem assina cancela pelo app, e a porta que as CLIs usam para falar com o Falou agora só aceita conexão da sua própria máquina.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/RhuanCruz/falou-releases/releases/download/v0.10.0/Falou.dmg" sparkle:edSignature="hIfRa7QVGICD9FPfCC4u2IJ0XpNNCMu7Fx6P/8UJLYxUs7nuMhX/nTEPbTW2Tk+yZd7SqsatZRgtvvZZdBwHBw==" length="31874175" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.9.0</title>
             <pubDate>Fri, 14 Aug 2026 00:47:03 +0000</pubDate>
             <sparkle:version>40</sparkle:version>
