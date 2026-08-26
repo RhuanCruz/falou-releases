@@ -3,6 +3,23 @@
     <channel>
         <title>Falou</title>
         <item>
+            <title>0.11.0</title>
+            <pubDate>Wed, 26 Aug 2026 16:38:45 +0000</pubDate>
+            <sparkle:version>42</sparkle:version>
+            <sparkle:shortVersionString>0.11.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Ver o que aconteceu, em vez de confiar</h3>
+<ul>
+<li><b>O Repositório ganhou tela própria.</b> Histórico, Issues e Pull requests no mesmo lugar — e o histórico desenha o grafo, com a linha colorida de cada branch. O trabalho do agente acontece num worktree que você não via; agora dá para olhar o que aconteceu, commit a commit, com os arquivos ao lado.</li>
+<li><b>Comece de onde o trabalho aparece.</b> Slack e Sentry entraram no "Criar de…": uma mensagem vira tarefa, um erro vira conversa com o rastro junto. As fontes agora se reconhecem pela marca, e a que não está conectada tem um botão Conectar em vez de um aviso morto.</li>
+<li><b>As integrações ficaram fundas, em vez de largas.</b> O Gmail responde na conversa e arquiva. O Slack responde na thread e acha gente. O Linear volta a falar com o ticket que originou o trabalho. E o Notion deixou de ser só leitura.</li>
+<li><b>O que você digitou não se perde.</b> Criar conversa virou ir para a tela cheia — o modal saiu de cena — e o texto que você escreve antes de mandar já fica salvo como rascunho, no topo da barra lateral, com ele mesmo servindo de título.</li>
+<li><b>Correção:</b> o ⌃fn de traduzir abria o notch mudo, sem texto e sem erro. Eram cinco causas diferentes com um sintoma só.</li>
+<li>O botão de play do simulador deixou de ser plano, os filtros da barra lateral guardam a ordem, e o + de uma coluna do quadro deixou de ser porta de mão única.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/RhuanCruz/falou-releases/releases/download/v0.11.0/Falou.dmg" sparkle:edSignature="86wOQkkY8MEqKOaULlesbYLwwINBC7svm8lgJ0//HcAjpphFHElKleDdA0V2fnwdHGPTteNkKlBzhub09yrLDw==" length="32478799" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.10.0</title>
             <pubDate>Mon, 17 Aug 2026 20:18:29 +0000</pubDate>
             <sparkle:version>41</sparkle:version>
