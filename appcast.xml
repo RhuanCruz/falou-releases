@@ -3,6 +3,22 @@
     <channel>
         <title>Falou</title>
         <item>
+            <title>0.12.0</title>
+            <pubDate>Mon, 07 Sep 2026 18:09:22 +0000</pubDate>
+            <sparkle:version>43</sparkle:version>
+            <sparkle:shortVersionString>0.12.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>0.12.0 — O ditado roda no seu Mac</h2>
+<ul>
+<li><b>Novo motor de ditado: o reconhecedor do próprio macOS.</b> Grátis, sem mandar áudio para fora e sem baixar modelo nenhum — o pacote de idioma é do sistema. O áudio é reconhecido enquanto você fala, então soltar o atalho só finaliza o que sobrou: o texto aparece em meio segundo. Padrão no macOS 26; Deepgram e Parakeet continuam como opções em Ajustes.</li>
+<li>A escuta contínua e a voz do notch usam o mesmo motor do ditado — antes eram sempre nuvem.</li>
+<li>Os modos de tradução mandavam ao reconhecedor o idioma de destino em vez do que você fala. Agora ele ouve na sua língua e o modo traduz depois.</li>
+<li><b>Correção:</b> Traduzir seleção parou com "HTTP 502 · transform_failed" — o provedor aposentou o modelo que traduzia. Trocado, e o erro agora diz qual modelo e qual status o provedor recusou.</li>
+<li>As opções de limpeza que apontavam para modelos aposentados saíram da lista; quem as tinha escolhido cai no GPT-OSS 120B.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/RhuanCruz/falou-releases/releases/download/v0.12.0/Falou.dmg" sparkle:edSignature="W3KkwfMbWVj+B2pJ+H0lUuDvwvCtrVkuWBi7x+nNAo2+tlfnjdB/ok0mNl7mlp0jvJ9KWFd3mDSYOEUIfSGHCg==" length="32543783" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.11.0</title>
             <pubDate>Wed, 26 Aug 2026 16:38:45 +0000</pubDate>
             <sparkle:version>42</sparkle:version>
