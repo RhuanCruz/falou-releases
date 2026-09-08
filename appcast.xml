@@ -3,6 +3,20 @@
     <channel>
         <title>Falou</title>
         <item>
+            <title>0.18.0</title>
+            <pubDate>Tue, 08 Sep 2026 19:52:59 +0000</pubDate>
+            <sparkle:version>50</sparkle:version>
+            <sparkle:shortVersionString>0.18.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Peça a um agente que crie o assistente da sua reunião</h3>
+<ul>
+<li><b>O Claude Code, o Codex ou o agente do Falou agora sabem criar e afinar os seus Falou Takers.</b> Peça "cria um assistente pra minha daily que aponte bloqueio sem dono" e ele escreve as instruções, escolhe o motor e deixa ativo para a próxima reunião. Depois de uma call em que ele falou demais, peça para afinar — sem abrir tela nenhuma.</li>
+<li><b>As instruções são o que o assistente repara, e a ferramenta cobra isso:</b> um prompt vago é recusado, com o que escrever no lugar. Nome repetido manda editar o que já existe em vez de criar um segundo com o mesmo nome.</li>
+<li><b>A coluna do assistente ficou bem mais larga.</b> Antes a resposta quebrava a cada cinco palavras e virava uma torre estreita que exigia parar para ler.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/RhuanCruz/falou-releases/releases/download/v0.18.0/Falou.dmg" sparkle:edSignature="b8G+qMkDuHHsS930RzMlaHEpTlaOvr2qjK35vN9hjK3u6Joq97BfvOFJRjd3YoDspjGYJNGlYBnu4BX0kyM9Cg==" length="33979928" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.17.0</title>
             <pubDate>Tue, 08 Sep 2026 19:06:27 +0000</pubDate>
             <sparkle:version>49</sparkle:version>
