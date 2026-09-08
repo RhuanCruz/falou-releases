@@ -3,6 +3,23 @@
     <channel>
         <title>Falou</title>
         <item>
+            <title>0.17.0</title>
+            <pubDate>Tue, 08 Sep 2026 19:06:27 +0000</pubDate>
+            <sparkle:version>49</sparkle:version>
+            <sparkle:shortVersionString>0.17.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>A tela de reunião redesenhada: três leituras, uma linha do tempo</h3>
+<ul>
+<li><b>A gravação virou três abas</b> — Transcrição, Resumo e Pontos de ação. A transcrição agora é uma coluna só, na ordem em que as coisas foram ditas, com quem falou como rótulo em cima do parágrafo.</li>
+<li><b>Pontos de ação:</b> o assistente procura o que ficou para alguém fazer, com prioridade e responsável. Cada item se marca, se apaga e se manda para uma conversa do Work ou uma thread do Code — com uma instrução sua, se quiser. Você cai direto onde o trabalho foi parar.</li>
+<li><b>Resumo durante a call</b>, não só no fim. A ata é o documento que se manda depois; isto é o que se olha aos vinte minutos para saber onde a conversa chegou.</li>
+<li><b>Perguntar ao assistente voltou a funcionar.</b> Quando o motor pedia uma ferramenta, o turno morria sem texto e a tela dizia que ele não tinha respondido. A pergunta agora vai por um caminho sem ferramentas, e o erro do servidor aparece em vez de virar silêncio.</li>
+<li><b>Pausar a gravação</b>, com o cronômetro contando o que foi gravado. O entalhe do notch passa a dizer "Pausada" em vez de continuar afirmando que grava.</li>
+<li><b>A reunião salva abre com a mesma tela da gravação</b>, e a listagem ganhou o mesmo material. O rosto dos assistentes foi redesenhado, e agora você escolhe a cor de cada um.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/RhuanCruz/falou-releases/releases/download/v0.17.0/Falou.dmg" sparkle:edSignature="A7TO1gOw9DVlOWa1HvXS9TEhZ3GHFNMJ3xZ6oMLovgntvOObBXROsFZfjeXZJ2JhVtPS9Z8xTeGHsFp14im+AQ==" length="33973233" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.16.0</title>
             <pubDate>Tue, 08 Sep 2026 13:46:35 +0000</pubDate>
             <sparkle:version>48</sparkle:version>
