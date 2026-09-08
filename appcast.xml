@@ -3,6 +3,23 @@
     <channel>
         <title>Falou</title>
         <item>
+            <title>0.14.0</title>
+            <pubDate>Tue, 08 Sep 2026 04:21:12 +0000</pubDate>
+            <sparkle:version>46</sparkle:version>
+            <sparkle:shortVersionString>0.14.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>0.14.0 — O Taker vira interlocutor</h2>
+<ul>
+<li><b>Converse com o assistente durante a call, sem parar a gravação.</b> Pergunte "isso estava no escopo?" enquanto os dois canais continuam transcrevendo, e a resposta usa o que acabou de ser dito.</li>
+<li><b>Dê contexto local a ele:</b> um documento, uma pasta, um repositório, os commits da semana. Ele lê o trecho que responde à pergunta e cita de onde veio — arquivo e linha, página do PDF, commit. Clicar na citação abre a fonte. Nada é enviado inteiro, e um PDF sem texto avisa que não pode ser lido em vez de fingir que foi.</li>
+<li><b>A tela de gravação foi refeita:</b> duas transcrições lado a lado e o assistente numa coluna própria, com o material dela separando registro de interpretação. Rolar para reler pausa o acompanhamento e oferece a volta ao vivo.</li>
+<li>Reuniões e Takers agora são listas centralizadas, e uma reunião salva abre em página própria com abas de Transcrição e Análise — a ata renderizada, não mais com marcação crua na tela.</li>
+<li>Os Takers ganharam rosto: o mesmo do Falou, com cor própria por assistente.</li>
+<li><b>O entalhe minimizado do notch</b> passa a mostrar que há reunião gravando, com o cronômetro, mesmo quando a janela do Falou não está à vista.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/RhuanCruz/falou-releases/releases/download/v0.14.0/Falou.dmg" sparkle:edSignature="lFwZDuGFf8rN7m+BXCskskw7E8XjRxDPl2n5bZNgiaOC+pZw3jStlKK5Gb2ZeoDqMTOnNMo83009BrXW2DCcAQ==" length="33608598" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.13.1</title>
             <pubDate>Tue, 08 Sep 2026 01:45:55 +0000</pubDate>
             <sparkle:version>45</sparkle:version>
