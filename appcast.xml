@@ -3,6 +3,21 @@
     <channel>
         <title>Falou</title>
         <item>
+            <title>0.15.0</title>
+            <pubDate>Tue, 08 Sep 2026 05:56:16 +0000</pubDate>
+            <sparkle:version>47</sparkle:version>
+            <sparkle:shortVersionString>0.15.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>A análise responde, e o contexto vem das suas ferramentas</h3>
+<ul>
+<li><b>A análise da reunião voltou a funcionar.</b> Ela parava em "o motor devolveu uma resposta vazia": o modelo raciocina antes de responder, e esse raciocínio consumia sozinho todo o teto de saída, sem sobrar nada para escrever. O teto subiu, e quando ainda assim faltar, a tela diz isso em vez de mostrar um vazio sem explicação.</li>
+<li><b>O contexto do Taker aceita Linear, issues do GitHub, conversas do Slack e erros do Sentry</b>, ao lado dos arquivos e repositórios locais. Cada fonte aparece com o logo da própria plataforma, e o item escolhido fica guardado com a reunião.</li>
+<li><b>A janela de contexto foi refeita</b> na mesma linha do "Criar a partir de…": busca, abas com os logos, lista densa e a contagem no rodapé. A aba de Commits saiu — anexar o repositório já dá acesso a eles.</li>
+<li><b>A reunião no notch ganhou duas colunas de verdade</b>, com um divisor entre elas: a transcrição de um lado, o que o assistente notou do outro. Mais respiro nas laterais, e contraste diferente para cada uma.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/RhuanCruz/falou-releases/releases/download/v0.15.0/Falou.dmg" sparkle:edSignature="jkfOLXI786Lqr9dWNwoYp8cRJeO6KFeVg8SVGZ5NwI5IcBjrlC3s3YYtcp1yk76I7uHkqRw1dLVFsg0JC4KPAA==" length="33744895" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.14.0</title>
             <pubDate>Tue, 08 Sep 2026 04:21:12 +0000</pubDate>
             <sparkle:version>46</sparkle:version>
