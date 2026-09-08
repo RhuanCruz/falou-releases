@@ -3,6 +3,20 @@
     <channel>
         <title>Falou</title>
         <item>
+            <title>0.19.0</title>
+            <pubDate>Tue, 08 Sep 2026 23:02:42 +0000</pubDate>
+            <sparkle:version>51</sparkle:version>
+            <sparkle:shortVersionString>0.19.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>O seu vocabulário, respeitado do começo ao fim</h3>
+<ul>
+<li><b>Diga como você escreve um nome e o Falou passa a escrevê-lo assim</b> — no ditado e na transcrição de reuniões. "Rhuan" para de virar "Juan". Agora o próprio reconhecedor recebe o seu vocabulário <i>antes</i> de escrever qualquer coisa, em vez de alguém consertar depois.</li>
+<li><b>Uma palavra falada pode virar um endereço.</b> Diga "meu github" e sai o link. É a única coisa que nenhum reconhecedor faz sozinho, porque ninguém pronuncia uma URL.</li>
+<li><b>O assistente da reunião e o resumo passam a conhecer o seu vocabulário.</b> Antes eles viam o nome escrito do seu jeito, achavam que era erro de transcrição, e "corrigiam" de volta.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/RhuanCruz/falou-releases/releases/download/v0.19.0/Falou.dmg" sparkle:edSignature="A42G3mNSY/yEdjEdD7uXFnNp/SJsLRidb181ZofpYJO/WyYM9Bm/9JbBYX9gJcABaQUekvHz1t5L0b9jSbWnDA==" length="34011551" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.18.0</title>
             <pubDate>Tue, 08 Sep 2026 19:52:59 +0000</pubDate>
             <sparkle:version>50</sparkle:version>
