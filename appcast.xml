@@ -3,6 +3,22 @@
     <channel>
         <title>Falou</title>
         <item>
+            <title>0.16.0</title>
+            <pubDate>Tue, 08 Sep 2026 13:46:35 +0000</pubDate>
+            <sparkle:version>48</sparkle:version>
+            <sparkle:shortVersionString>0.16.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>A sua voz volta para a reunião, e o assistente para de esperar o silêncio</h3>
+<ul>
+<li><b>A coluna "Você" podia ficar vazia a call inteira.</b> O microfone do Falou tinha um dono só, e vários pontos do app o liberavam ao terminar o que estavam fazendo — fechar uma sessão de voz no notch durante a gravação deixava a sua fala fora da transcrição, sem erro nenhum. Agora a reunião segura o microfone e ninguém consegue tirá-lo dela.</li>
+<li><b>E se o microfone parar mesmo</b> — o fone que desconectou, a entrada que sumiu — a reunião percebe em quatro segundos, tenta religar, e diz o que aconteceu em vez de continuar mostrando "esperando alguém falar".</li>
+<li><b>O assistente falava pouco demais numa call longa.</b> Ele só olhava a reunião quando um trecho de fala era fechado, e o reconhecedor só fecha um trecho num silêncio longo: cinco minutos de conversa contínua davam três oportunidades de falar. Agora ele acompanha a fala enquanto ela acontece — e prefere apontar a ficar calado.</li>
+<li><b>A análise parou de falhar com "resposta vazia".</b> O modelo pensa antes de responder, e o raciocínio saía do mesmo orçamento da resposta. O teto subiu, e qual modelo roda a análise passou a ser escolhido do lado do servidor.</li>
+<li><b>Copiar ficou a um clique:</b> a resposta do assistente, cada apontamento, e a coluna de transcrição inteira. E o que ainda faltava selecionar com o mouse agora seleciona, inclusive no notch.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/RhuanCruz/falou-releases/releases/download/v0.16.0/Falou.dmg" sparkle:edSignature="qPZVbJMYdfv+ysE3AaUT9CjBEspLEC0VucPcpIsCfFx9vf4W5YpRhy4OksgYJnT8lcGT6TRGuryhn6dMWnz2Cg==" length="33768825" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.15.0</title>
             <pubDate>Tue, 08 Sep 2026 05:56:16 +0000</pubDate>
             <sparkle:version>47</sparkle:version>
