@@ -3,6 +3,25 @@
     <channel>
         <title>Falou</title>
         <item>
+            <title>0.13.1</title>
+            <pubDate>Tue, 08 Sep 2026 01:45:55 +0000</pubDate>
+            <sparkle:version>45</sparkle:version>
+            <sparkle:shortVersionString>0.13.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>0.13.1 — Reuniões, com o assistente ao vivo</h2>
+<ul>
+<li><b>Reuniões, uma tela nova.</b> Grave a call e o Falou transcreve os dois lados separados: a sua voz entra pelo microfone, a das outras pessoas pelo áudio do sistema, e cada uma vai para a sua coluna. Roda no seu Mac.</li>
+<li>Arraste um arquivo de áudio para a mesma tela e ele vira transcrição. Uma gravação de uma hora sai em segundos.</li>
+<li><b>Falou Takers.</b> Um assistente acompanha a reunião ao vivo e aponta, numa terceira coluna, o que você corre risco de deixar passar — a objeção sem resposta, o combinado sem responsável. Cinco vêm prontos (Geral, Daily, Venda, Cliente, Entrevista) e você escreve os seus. Cada um roda no motor que você escolher: o agente do Falou ou o seu Claude Code ou Codex.</li>
+<li><b>Reuniões no notch.</b> A call acontece enquanto você está no Meet, com a janela do Falou fora de vista — e é aí que o que o assistente notou vale mais. Do notch dá para gravar, ver os apontamentos, abrir uma reunião passada e encerrar a que está correndo.</li>
+<li><b>A ata sai pronta.</b> Ao encerrar, o Falou escreve resumo, decisões e pendências dentro de uma conversa — pelo mesmo motor que você usa no resto do app.</li>
+<li><b>O agente acha as suas reuniões.</b> Em qualquer conversa dá para perguntar o que ficou decidido na reunião de ontem, tanto com o agente do Falou quanto com a CLI que você usa como motor.</li>
+<li>Uma conversa do Code pode nascer como terminal de verdade, com o Claude Code ou o Codex rodando na TUI deles. É uma preferência em Ajustes; o chat nativo continua o padrão.</li>
+<li><b>Correção:</b> o entalhe minimizado do notch tinha sumido da tela. Voltou, um pouco mais alto, e agora abre no clique.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/RhuanCruz/falou-releases/releases/download/v0.13.1/Falou.dmg" sparkle:edSignature="qyiCF2t6oWdYNhApPQ+vVyYN4tN/GyGrcwBOl+nbbtDX1PkRVq57e+9miQluhGSrXY2KRX0jIvHsxurzA3wzAA==" length="33175765" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.13.0</title>
             <pubDate>Mon, 07 Sep 2026 23:24:42 +0000</pubDate>
             <sparkle:version>44</sparkle:version>
