@@ -3,6 +3,19 @@
     <channel>
         <title>Falou</title>
         <item>
+            <title>0.19.1</title>
+            <pubDate>Wed, 09 Sep 2026 19:25:10 +0000</pubDate>
+            <sparkle:version>52</sparkle:version>
+            <sparkle:shortVersionString>0.19.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>A transcrição que parava no meio da call</h3>
+<ul>
+<li><b>A transcrição parava sozinha e nada avisava.</b> O áudio continuava entrando, o cronômetro continuava correndo, e a tela continuava dizendo "gravando" — só não saía mais uma palavra. Parecia um limite de tempo, mas era um erro do reconhecedor sendo engolido em silêncio. Agora o canal se reergue sozinho e a gravação continua.</li>
+<li><b>Reuniões apareciam duas vezes na lista.</b> Elas estavam sendo salvas duas vezes. As duplicatas antigas somem sozinhas ao abrir.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/RhuanCruz/falou-releases/releases/download/v0.19.1/Falou.dmg" sparkle:edSignature="jT49NX0eE8L5/3TsiTZtOXisCjiwnan4K64lrnZ73bo2I1vHb/v3uzpZ0IKB33kTNCHxdDSBVsDp4joNRuY0BQ==" length="34023593" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.19.0</title>
             <pubDate>Tue, 08 Sep 2026 23:02:42 +0000</pubDate>
             <sparkle:version>51</sparkle:version>
