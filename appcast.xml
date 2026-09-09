@@ -3,6 +3,20 @@
     <channel>
         <title>Falou</title>
         <item>
+            <title>0.19.2</title>
+            <pubDate>Wed, 09 Sep 2026 22:23:30 +0000</pubDate>
+            <sparkle:version>53</sparkle:version>
+            <sparkle:shortVersionString>0.19.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>A conversa em terminal que voltava vazia</h3>
+<ul>
+<li><b>Reabrir uma conversa que roda na TUI do agente trazia uma tela em branco.</b> A sessão era capturada mas nunca gravada, então fechar o app a perdia. Agora ela é guardada na hora e reencontrada em disco quando preciso, e retomar não conta os tokens duas vezes.</li>
+<li><b>Os hooks reclamavam de "node: command not found"</b> na abertura de toda conversa. Um shell de login não lê o arquivo onde moram nvm, mise e os tokens; o terminal passou a receber o mesmo ambiente que o caminho sem tela já usava.</li>
+<li><b>Diff, arquivos, Browser, Simulador e o Environment voltaram</b> para a conversa em terminal, com os atalhos. Eles dependem da pasta, não da superfície, e não tinham por que sumir só porque a conversa roda na TUI.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/RhuanCruz/falou-releases/releases/download/v0.19.2/Falou.dmg" sparkle:edSignature="h2aKr6efz2Pv3VvLab1MwHM8FMPaABkBX32gfSHfQxecUPnBZMnFicAYuq77ZPMg5wr0hUqaaY6fdJTFAdOBCw==" length="34059183" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.19.1</title>
             <pubDate>Wed, 09 Sep 2026 19:25:10 +0000</pubDate>
             <sparkle:version>52</sparkle:version>
